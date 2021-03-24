@@ -25,7 +25,9 @@ This is the source code for a HTML iFrame which allows you select a location on 
 > yarn build
 ```
 
-This compiles the iFrame and generates a directory `dist` and the `map_selector.html` file in the directory
+This compiles the iFrame and generates a directory `dist` and the `map_selector.html` file in the directory.
+
+The name of the html file is set in the `config.yml` file as the `outputFileName` key. 
 
 ## Import and Use
 
