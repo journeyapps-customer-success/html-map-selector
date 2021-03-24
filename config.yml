@@ -1,0 +1,7 @@
+token: 
+appId:
+apiVersion: v4
+outputFileName: map_selector.html
+htmlTitle: Location Map
+mapBoxAccessToken: 
+branch:
